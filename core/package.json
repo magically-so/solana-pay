@@ -1,5 +1,5 @@
 {
-    "name": "@solana/pay",
+    "name": "@magically.so/solana-pay",
     "version": "0.2.0",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
     "repository": "https://github.com/solana-labs/solana-pay",
